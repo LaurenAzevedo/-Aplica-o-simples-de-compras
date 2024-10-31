@@ -75,6 +75,9 @@ Na tela principal, o usuário escolhe os produtos que deseja e calcula o valor t
 
 <img src="https://github.com/user-attachments/assets/12de2009-86fa-484e-a76e-42f061bd40cd" width="260" height="500"/>
 
+# 🧰 APK do APP 
+
+<a href="https://github.com/LaurenAzevedo/-Aplica-o-simples-de-compras/blob/main/compras.apk"> Download APK </a>
  
 # 📄 Licença
 
